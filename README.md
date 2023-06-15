@@ -10,7 +10,8 @@ Atualmente trabalho como desenvolvedor full stack no [GCTI](https://gcti.parnami
 
 Minhas tecnologias favoritas: React.js | Angular 2+ | Node.js
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
 
 ### 🖥️ Tecnologias
  
