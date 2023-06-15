@@ -15,26 +15,7 @@ Minhas tecnologias favoritas: React.js | Angular 2+ | Node.js
 
 ### 🖥️ Tecnologias
  
-<h3>Hard Skills</h3>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40">
-</div>
 
-<div> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40">
-</div>
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
-</div>
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40">
-</div>
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40">
-</div>
 
 ### 📞 Contatos
 
