@@ -1,6 +1,6 @@
 ### Meu Perfil
 
-### Olá, seja bem-vindo à minha rede!
+### Olá, seja bem-vindo!
 
 Entusiasta da tecnologia, iniciei na área como Designer, desenvolvendo um lado criativo e o bom senso estético. Através de um networking incrível entre amigos e outros profissionais da área, conheci e me interessei pelo Desenvolvimento Web, cujo qual atuo como Dev Frontend dando apoio à equipe no desenvolvimento Back-end e resolução de problemas relacionados à interface do usuário.
 
