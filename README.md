@@ -13,10 +13,6 @@ Atualmente trabalho como desenvolvedor full stack no [GCTI](https://gcti.parnami
 Minhas tecnologias favoritas: React.js | Angular 2+ | Node.js
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU2MDdjYjBiMWQ4YWMxOTUwOWI4ZWMzNmFiYzAwNjJlOGE4ZTkzNiZjdD1n/zOvBKUUEERdNm/giphy.gif"/>
-</div>
-
 ### 🖥️ Tecnologias
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
