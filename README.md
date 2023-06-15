@@ -14,9 +14,8 @@ Minhas tecnologias favoritas: React.js | Angular 2+ | Node.js
 
 
 ### 🖥️ Tecnologias
-<img height="140cm" align="right" src="https://thumbs.gfycat.com/AthleticGrayKittiwake-size_restricted.gif">
  
-<h3>Tech Stack</h3>
+<h3>Hard Skills</h3>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40">
