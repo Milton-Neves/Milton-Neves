@@ -6,7 +6,7 @@ Gosto da percepção na experiência do usuário pois vejo a necessidade de apre
 
 Bora codar 🚀
 
-Atualmente trabalho como desenvolvedor full stack no [GCTI](https://gcti.parnamirim.rn.gov.br/)
+Atualmente trabalho como desenvolvedor Fullstack no [GCTI](https://gcti.parnamirim.rn.gov.br/)
 
 ### My Skills:
 
@@ -16,9 +16,19 @@ Atualmente trabalho como desenvolvedor full stack no [GCTI](https://gcti.parnami
   <img align="center" alt="Milton-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Milton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Milton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Milton-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Milton-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">          
+  <img align="center" alt="Milton-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Milton-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Milton-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
+
+  ##
+<div style="display: inline_block">
+  <img align="center" alt="Milton-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Milton-Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="Milton-Illustrator" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+  <img align="center" alt="Milton-After" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+</div>   
   
   ##
  
