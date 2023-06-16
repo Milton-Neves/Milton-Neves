@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo!
 
-Sou entusiasta da tecnologia, atuo como Dev Frontend dando apoio, também, à equipe no desenvolvimento Backend e resolução de problemas relacionados à interface do usuário e alguns projetos como UX/UI Designer.
+Atuo como Dev frontend dando apoio, também, à equipe no desenvolvimento backend e resolução de problemas relacionados à interface do usuário e alguns projetos como UX/UI Designer.
 
 Gosto da percepção na experiência do usuário pois vejo a necessidade de aprender e criar interfaces mais fáceis e amigáveis.
 
