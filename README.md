@@ -1,12 +1,13 @@
 ## Olá, seja bem vindo!
 
-Entusiasta da tecnologia, iniciei na área como Designer e, através de um networking incrível entre amigos e outros profissionais da área, conheci e me interessei pelo Desenvolvimento Web, cujo qual atuo como Dev Frontend dando apoio à equipe no desenvolvimento Backend e resolução de problemas relacionados à interface do usuário.
+Sou entusiasta da tecnologia, atuo como Dev Frontend dando apoio, também, à equipe no desenvolvimento Backend e resolução de problemas relacionados à interface do usuário e alguns projetos como UX/UI Designer.
 
 Gosto da percepção na experiência do usuário pois vejo a necessidade de aprender e criar interfaces mais fáceis e amigáveis.
 
+Atualmente trabalho como desenvolvedor Fullstack no [GCTI](https://gcti.parnamirim.rn.gov.br/)
+
 Bora codar 🚀
 
-Atualmente trabalho como desenvolvedor Fullstack no [GCTI](https://gcti.parnamirim.rn.gov.br/)
 
 ### My Skills:
 
@@ -33,9 +34,9 @@ Atualmente trabalho como desenvolvedor Fullstack no [GCTI](https://gcti.parnamir
   ##
  
 <div> 
+  <a href="https://www.linkedin.com/in/miltonbneves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/milzonzneves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:milzonzneves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/miltonbneves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
