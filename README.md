@@ -1,10 +1,18 @@
-## Olá, seja bem vindo!
+## Olá, seja bem-vindo à minha rede!
 
-Atuo como Dev frontend dando apoio, também, à equipe no desenvolvimento backend e resolução de problemas relacionados à interface do usuário e alguns projetos como UX/UI Designer.
+Sou um entusiasta apaixonado pelo
+desenvolvimento Frontend, buscando
+constantemente expandir minhas habilidades e
+conhecimentos na área.
+Minha vontade de aprender me permitem
+enfrentar desafios e solucionar problemas de
+maneira eficaz.
+Além de minha base técnica, valorizo a
+colaboração em equipe e estou animado para
+contribuir em projetos que envolvam criatividade,
+inovação e crescimento profissional contínuo.
 
-Gosto da percepção na experiência do usuário pois vejo a necessidade de aprender e criar interfaces mais fáceis e amigáveis.
-
-Atualmente trabalho como desenvolvedor Fullstack no [GCTI](https://gcti.parnamirim.rn.gov.br/)
+Gosto da percepção na experiência do usuário pois vejo a necessidade de aprender e criar interfaces mais fáceis.
 
 Bora codar 🚀
 
