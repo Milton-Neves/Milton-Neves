@@ -11,43 +11,76 @@ Atualmente focado em arquitetura de sistemas escaláveis e integração de IA em
 ---
 
 ### Tech Stack
+### Tech Stack
 
-<div style="display: inline_block"><br>
+<p align="left">
+  <img alt="Angular" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 
-  <img align="center" alt="Angular" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img alt="TypeScript" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-  <img align="center" alt="TypeScript" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="JavaScript" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-  <img align="center" alt="JavaScript" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="React" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-  <img align="center" alt="React" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="NextJS" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
-  <img align="center" alt="NextJS" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img alt="NodeJS" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-  <img align="center" alt="NodeJS" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="Java" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-  <img align="center" alt="Java" height="30" width="40"
-    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img alt="Spring" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
-  <img align="center" alt="Spring" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img alt="PostgreSQL" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
-  <img align="center" alt="PostgreSQL" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img alt="Sass" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-  <img align="center" alt="Sass" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img alt="ZardUI" height="40" width="40"
+    src="https://avatars.githubusercontent.com/u/179123294?s=200&v=4" />
+</p>
+<p align="left">
+  <img alt="Angular" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 
-  <img align="center" alt="ZardUI" height="30" width="40"
-    src="https://raw.githubusercontent.com/zard-ui/zardui/main/apps/docs/public/logo.png">
+  <img alt="TypeScript" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-</div>
+  <img alt="JavaScript" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+  <img alt="React" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+  <img alt="NextJS" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+
+  <img alt="NodeJS" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+  <img alt="Java" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+  <img alt="Spring" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
+  <img alt="PostgreSQL" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+  <img alt="Sass" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+
+  <img alt="ZardUI" height="40" width="40"
+    src="https://avatars.githubusercontent.com/u/179123294?s=200&v=4" />
+</p>
 
 ---
 
