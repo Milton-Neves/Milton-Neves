@@ -40,14 +40,11 @@ Atualmente focado em arquitetura de sistemas escaláveis e integração de IA em
   <img alt="PostgreSQL" height="40" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
-  <img alt="Sass" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-
   <img alt="ZardUI" height="40" width="40"
     src="https://avatars.githubusercontent.com/u/179123294?s=200&v=4" />
 
-    <img alt="Quarkus" height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" />
+  <img alt="Quarkus" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" />
 </p>
 
 ### Contato
