@@ -1,20 +1,16 @@
 ## Olá, seja bem-vindo à minha rede!
 
-Sou um entusiasta apaixonado pelo
-desenvolvimento Frontend, buscando
-constantemente expandir minhas habilidades e
-conhecimentos na área.
-Minha vontade de aprender me permitem
-enfrentar desafios e solucionar problemas de
-maneira eficaz.
-Além de minha base técnica, valorizo a
-colaboração em equipe e estou animado para
-contribuir em projetos que envolvam criatividade,
-inovação e crescimento profissional contínuo.
-
-Gosto da percepção na experiência do usuário pois vejo a necessidade de aprender e criar interfaces mais fáceis.
-
-Bora codar 🚀
+Desenvolvedor de software com experiência na
+construção de aplicações web, atuando
+principalmente com Angular (v21+) no frontend e
+Node.js e Java (Spring) no backend.
+Trabalho com integração de APIs, evolução de
+sistemas e desenvolvimento de funcionalidades,
+contribuindo tanto na interface quanto na lógica
+de negócio.
+Atualmente focado em evoluir em arquitetura de
+sistemas escaláveis e na integração de IA em
+aplicações web.
 
 
 ### My Skills:
