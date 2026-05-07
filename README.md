@@ -11,7 +11,6 @@ Atualmente focado em arquitetura de sistemas escaláveis e integração de IA em
 ---
 
 ### Tech Stack
-### Tech Stack
 
 <p align="left">
   <img alt="Angular" height="40" width="40"
@@ -47,42 +46,6 @@ Atualmente focado em arquitetura de sistemas escaláveis e integração de IA em
   <img alt="ZardUI" height="40" width="40"
     src="https://avatars.githubusercontent.com/u/179123294?s=200&v=4" />
 </p>
-<p align="left">
-  <img alt="Angular" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-
-  <img alt="TypeScript" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
-  <img alt="JavaScript" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-  <img alt="React" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-  <img alt="NextJS" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-
-  <img alt="NodeJS" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-  <img alt="Java" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-  <img alt="Spring" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
-  <img alt="PostgreSQL" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-
-  <img alt="Sass" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-
-  <img alt="ZardUI" height="40" width="40"
-    src="https://avatars.githubusercontent.com/u/179123294?s=200&v=4" />
-</p>
-
----
 
 ### Contato
 
